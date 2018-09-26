@@ -1,0 +1,6 @@
+ES6
+- được chia làm 3 nhóm tính năng
++ Shipping : Tính năng ổn định và được bật mặc định trong Nodejs để mặc định
++ Staged : Tính năng gần hoàn thiện và có thể sử dụng bằng việc khai báo cờ -harmony, nhưng chưa ổn định
++ In progress: Tính năng đang thử nghiệm
+- Xem hệ thống tính năng : node --v8-options hoặc :https://node.green/

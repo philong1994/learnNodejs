@@ -1,0 +1,9 @@
+Event và Event Emmiter
+- Event là một thứ gì đó xảy ra mà chúng ta có thể đáp ứng lại và xử lý nó
+- Trong Nodejs thường có 2 loại sự kiện 
++ System Event
+ -- Xảy ra trong C++ Core của ứng dụng: đọc file, download..
+ -- Không kiểm soát đc, chỉ xử lý khi xảy ra sự kiện
++ Custom Event
+ -- Xảy ra trong Javascript Core: đón nhận những sự kiện do người dùng tạo ra
+ -- Event Emmiter: có thể thiết lập, cấu hình theo ý muốn
