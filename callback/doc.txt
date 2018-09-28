@@ -1,0 +1,2 @@
+Hàm callback là một hàm đc truyền vào lời gọi của hàm khác
+Thực thi công việc trong tương lai sau khi hoàn thành một công việc nào đó
