@@ -1,0 +1,7 @@
+1. Buffer
+- Là nơi chứa tạm thời dữ liệu đang được chuyển từ nơi này đến nơi khác
+- Mang tính chất tạm thời, cần một vùng nhớ để lưu trữ
+- Kích thước luôn xác định và giới hạn
+2 . Stream
+- Là chuỗi dữ liệu đã có sẵn theo thời gian
+- Chuỗi dữ liệu các mãng dữ liệu đc ghép lại thành một dữ liệu đầy đủ
