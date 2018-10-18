@@ -1,0 +1,14 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "description",
+  "main": "app.js",
+  "scripts": {
+    "test": "code"
+  },
+  "author": "Long",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}

@@ -11,5 +11,4 @@ readDatabase(function (data) {
     console.log("Read db callback");
     console.log(data);
     
-    
-})
+});
